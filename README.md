@@ -14,8 +14,8 @@
 This project was developed as part of the NLW Expert event organized by Rocketseat. It is an API for a real-time voting system where users can create polls and cast their votes. 
 The system dynamically generates a ranking among the poll options and updates the votes in real-time.
 
-#### Project Diagram
-![Diagrama](diagrama.jpg)
+## Project Diagram
+![Diagrama](projectDiagram.jpg)
 
 ## Features
 
