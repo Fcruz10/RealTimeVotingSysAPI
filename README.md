@@ -144,3 +144,6 @@ Number of votes of one poll.
   "votes": 2
 }
 ```
+
+<br />
+<p align="center"> Made by Francisco Cruz <a href="https://www.linkedin.com/in/francisco-cruz-074208140/"> Get in touch! </a> </p>
