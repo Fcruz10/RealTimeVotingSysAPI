@@ -11,7 +11,15 @@
 # NLW Expert (NodeJS)
 
 ## Project
-A real-time voting system where users can create a poll and other users can cast their votes. The system generates a ranking among the options and updates the votes in real-time.
+This project was developed as part of the NLW Expert event organized by Rocketseat. It is an API for a real-time voting system where users can create polls and cast their votes. 
+The system dynamically generates a ranking among the poll options and updates the votes in real-time.
+
+## Features
+
+- Users can create polls;
+- Community members can vote on polls;
+- Real-time updating of votes and ranking;
+- API-based architecture for easy integration;
 
 ## Requirements
 - Docker;
