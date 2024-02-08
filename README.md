@@ -27,11 +27,26 @@ The system dynamically generates a ranking among the poll options and updates th
 
 ## Setup
 
-- Clone the repository;
-- Install dependencies (`npm install`);
-- Setup PostgreSQL and Redis (`docker compose up -d`);
-- Copy `.env.example` file (`cp .env.example .env`);
-- Run application (`npm run dev`);
+- Clone the repository
+```bash
+git clone https://github.com/Fcruz10/RealTimeVotingSysAPI.git
+```
+- Install dependencies
+```bash
+ npm install
+```
+- Setup PostgreSQL and Redis
+```bash
+ docker compose up -d
+```
+- Copy `.env.example` file
+```bash
+ cp .env.example .env
+```
+- Run application
+```bash
+ npm run dev
+```
 - Test it! 
     - [Hoppscotch](https://hoppscotch.io/).
     - [Postman](https://www.postman.com/).
@@ -116,8 +131,9 @@ Add a vote to specific poll.
 ## WebSockets
 
 ### ws `/polls/:pollId/results`
+Number of votes of one poll.
 
-#### Message
+### Message
 
 ```json
 {
