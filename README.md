@@ -8,7 +8,7 @@
   </a>
 </div>
 
-# NLW Expert (NodeJS)
+# NLW Expert (NodeJS) ![NodeJS Logo](https://www.rocketseat.com.br/eventos/nlw/_next/static/media/node.10094861.svg)
 
 ## Project
 This project was developed as part of the NLW Expert event organized by Rocketseat. It is an API for a real-time voting system where users can create polls and cast their votes. 
